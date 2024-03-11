@@ -29,7 +29,7 @@ const chocoyaProjects: Project[] = [
     title: "초코야! 스플랫 사전",
     description:
       "스플래툰 용어 중 번역하기 어려운 단어들을 게임내 데이터를 검색해서 보여주는 사이트 입니다. 사전을 서빙하는 코드는 보안을 위해 비공개로 해두었습니다.",
-    link: "https://github.com/dev-jelly/splat-dictionary/",
+    link: "https://sd.octol.ing",
   },
   {
     title: "초코야! 스플랫 번역",
