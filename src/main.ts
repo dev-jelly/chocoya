@@ -55,7 +55,7 @@ const projectList = chocoyaProjects.map((project) => {
   `;
   return `
   <li class="flex flex-col gap-x-3">    
-  <a class="font-semibold text-lg text-gray-900" href="${project.link}" target="_blank">${project.title}</a>
+  <a class="font-semibold text-lg text-green-800" href="${project.link}" target="_blank">${project.title}</a>
     <span> ${project.description}</span>
   </li>
   `;
@@ -79,7 +79,7 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
             <img src="/jelly.png" alt="젤리" class="w-24 h-24 rounded-full">
           </div>
         </div>
-        <a href="https://github.com/dev-jelly" class="text-xl font-semibold text-gray-900">젤리</a>
+        <a href="https://github.com/dev-jelly" class="text-xl font-semibold text-Yellow-900">젤리</a>
         <p class="mt-2 text-base leading-7 text-gray-600">
           젤리는 개발자로 기술에 관심이 많습니다.
         </p>
@@ -90,7 +90,7 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
             <img src="/choco.png" alt="초코" class="w-24 h-24 rounded-full">
           </div>
         </div>
-        <a href="https://twitter.com/octoling_choco" class="text-xl font-semibold text-gray-900">초코</a>
+        <a href="https://twitter.com/octoling_choco" class="text-xl font-semibold text-purple-900">초코</a>
         <p class="mt-2 text-base leading-7 text-gray-600">
           초코는 기획자로 여러가지 잔소리가 많습니다!
         </p>
