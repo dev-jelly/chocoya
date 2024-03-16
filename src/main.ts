@@ -97,10 +97,10 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
       </div>
     </div>
     
-    <div class="mt-10 flex flex-col text-xl justify-center items-center w-full">
-      <p>
-      초코야 프로젝트에서 진행한 프로젝트들
-        </p>
+    <div class="mt-10 flex flex-col justify-center items-center w-full">
+      <h3 class="text-xl">
+        초코야 프로젝트에서 진행한 프로젝트들
+      </h3>
       <ul role="list" class="mt-8 max-w-xl space-y-8 text-gray-600 break-keep">
         ${projectList.join("")}
       </ul>  
