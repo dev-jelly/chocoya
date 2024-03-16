@@ -17,7 +17,7 @@ const chocoyaProjects: Project[] = [
     title: "초코야! 스플랫 플레이트",
     description:
       "스플래툰의 요소 중 하나인 플레이트를 편집 및 제작하기 쉽게 만들어주는 사이트입니다. 원본은 <a href='https://seymourschlong.github.io/splashtags/'>seymourschlong의 splashtag</a>이며, 한번 <a href='https://dev-jelly.github.io/splashtags/'>포크해서 인쇄용으로 만든 프로젝트</a>를 다시 사용성을 개선해 만든 프로젝트입니다.",
-    link: "https://dev-jelly.github.io/splat-plate/",
+    link: "https://plate.octol.ing",
   },
   {
     title: "초코야! 연어한판?!",
