@@ -67,7 +67,7 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
     <p class="text-base font-semibold leading-7 text-indigo-600">Introducing</p>
     <h1 class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl break-keep">초코야 프로젝트에 오신 걸 환영합니다.</h1>
    
-    <p class="mt-6 text-xl leading-8 sm:mx-24 break-keep">
+    <p class="mt-6 text-lg leading-8 sm:mx-24 break-keep">
         초코야 프로젝트는 젤리와 초코를 중심으로 매번 본인들 필요한 거 만들어서 사용하는 프로젝트입니다.    
     </p>
 
