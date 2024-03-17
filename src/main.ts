@@ -97,8 +97,9 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
       </div>
     </div>
     
-    <div class="mt-10 flex flex-col justify-center items-center w-full">
-      <h3 class="text-xl">
+    <div class="mt-0 sm:mt-14 flex flex-col justify-center items-center w-full">
+      <div class="my-12 sm:hidden px-12 h-px bg-gray-200"></div>  
+      <h3 class="text-xl font-bold">
         초코야 프로젝트에서 진행한 프로젝트들
       </h3>
       <ul role="list" class="mt-8 max-w-xl space-y-8 text-gray-600 break-keep">
